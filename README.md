@@ -1,3 +1,5 @@
+This repo comes from the awesome talk by [@geolessel](https://github.com/geolessel) at the SD Elixir / Erlang meetup, July 21 2016 7:00pm 
+
 # Todo
 
 This application is a demo application that demonstrates using Ecto
